@@ -1,0 +1,1 @@
+This webkit exploit allows you to exploit PS4 systems running firmware version 6.72. By using this exploit, you can run homebrew applications, access system modifications, and possibly play unofficial games. Please note that jailbreaking your console may void your warranty and is done at your own risk.
